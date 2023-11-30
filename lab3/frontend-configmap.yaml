@@ -1,0 +1,11 @@
+apiVersion: v1
+data:
+  REACT_APP_COMPANY_NAME: StrongLab
+  REACT_APP_USERNAME: AndreySoldatov
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2023-11-30T11:44:37Z"
+  name: frontend-configmap
+  namespace: default
+  resourceVersion: "155193"
+  uid: 11782862-999e-4291-9442-f833bb5fe5c5
