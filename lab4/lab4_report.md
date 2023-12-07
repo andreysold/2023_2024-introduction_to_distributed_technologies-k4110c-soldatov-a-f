@@ -81,4 +81,4 @@ kubectl exec -it frontend-deployment-7b4975f5db-26fx9 sh
 
 Схема
 
-
+![img](img/schema.png)
